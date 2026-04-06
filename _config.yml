@@ -1,0 +1,5 @@
+title: My Content Bot
+description: AI-powered TikTok content automation tool
+baseurl: "/tiktok-bot-site"
+url: "https://s1107469881-bit.github.io"
+permalink: /:path/
